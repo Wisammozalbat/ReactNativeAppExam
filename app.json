@@ -2,27 +2,19 @@
   "expo": {
     "name": "ReactNativeApp",
     "slug": "ReactNativeApp",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/exam.jpg",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "android": {
+      "package": "com.rnexamapp.wamt",
+      "versionCode": 1
     }
   }
 }
