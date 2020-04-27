@@ -4,7 +4,7 @@
     "slug": "ReactNativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/exam.jpg",
+    "icon": "./assets/exam.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
